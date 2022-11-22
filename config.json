@@ -1,0 +1,9 @@
+{
+	"ip":"NihalSinghDhanjal.aternos.me:24342",
+	"port": 24342,
+	"name": "afkbot1",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register AWL BEX",
+	"login-cmd":"/login AWL BEX"
+}
